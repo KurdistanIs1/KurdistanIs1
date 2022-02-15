@@ -28,7 +28,7 @@
 </p>
 
 ```python
-class Anonym-R():
+class AnonymR():
     
   def __init__(self):
     self.name = "Anonym-R";
@@ -41,11 +41,14 @@ class Anonym-R():
     return self.name
 
 if __name__ == '__main__':
-    me = Anonym-R()
+    me = AnonymR()
 ```
 
-<p align="left">
+<br/>
+<p>
   <a href="#">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=KurdistanIs1&show_icons=true&theme=gruvbox&hide_border=true" /><img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=KurdistanIs1&theme=gruvbox&hide_border=true" /><img src="https://activity-graph.herokuapp.com/graph?username=KurdistanIs1&theme=gruvbox&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurdistanIs1&layout=compact&theme=gruvbox&hide_border=true" /><img src="https://github-profile-trophy.vercel.app/?username=KurdistanIs1&theme=gruvbox&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=KurdistanIs1&show_icons=true&theme=gruvbox&hide_border=true" /><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=KurdistanIs1&theme=gruvbox&hide_border=true" />
+  <img width="50%" src="https://activity-graph.herokuapp.com/graph?username=KurdistanIs1&theme=gruvbox&hide_border=true" /><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurdistanIs1&layout=compact&theme=gruvbox&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KurdistanIs1&theme=gruvbox&hide_border=true" />
   </a>
 </p>
